@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://L0ne1yWind.github.io</id>
     <title> 404 NOT FOUND！</title>
-    <updated>2021-08-13T16:27:01.664Z</updated>
+    <updated>2021-08-13T16:33:47.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://L0ne1yWind.github.io"/>
     <link rel="self" href="https://L0ne1yWind.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://L0ne1yWind.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021,  404 NOT FOUND！</rights>
     <entry>
-        <title type="html"><![CDATA[实习面试记录-2021.06]]></title>
+        <title type="html"><![CDATA[实习面筋-2021.06]]></title>
         <id>https://L0ne1yWind.github.io/post/shi-xi-mian-shi-ji-lu-202106/</id>
         <link href="https://L0ne1yWind.github.io/post/shi-xi-mian-shi-ji-lu-202106/">
         </link>
@@ -48,8 +48,8 @@ A:对于实习来说挺不错的，基础挺扎实的，该懂的也都懂了。
 <li>内网渗透时经常会出现Shell不稳定，你会怎么去弥补这个问题？</li>
 <li>你觉得反弹Shell有几种方法？</li>
 <li>有没有在外网Shell的场景？</li>
-<li>有遇到过POST加密包的情况吗？<br>
-8. 发现Web系统抓包发现很多字段都是加密你会怎么处理？</li>
+<li>有遇到过POST加密包的情况吗？</li>
+<li>发现Web系统抓包发现很多字段都是加密你会怎么处理？</li>
 <li>比较极端的例子整个包都加密你有什么思路？</li>
 <li>针对password字段加密呢？</li>
 <li>APP渗透做过么？</li>
@@ -71,26 +71,16 @@ A:对于实习生来说还算不错，代码能力应该也还不错，总体来
 <h2 id="三面总监无hc转区">三面总监:(无HC，转区)</h2>
 <p>线上面的，没有录音都忘得差不多了....</p>
 <ol>
-<li>
-<p>DOM型XSS能被WAF拦截吗？</p>
-</li>
-<li>
-<p>了解Java反射机制原理吗？</p>
-</li>
-<li>
-<p>用过哪些框架？</p>
-</li>
-<li>
-<p>文件包含</p>
-</li>
-<li>
-<p>反序列化</p>
-</li>
-</ol>
-<p>...<br>
+<li>DOM型XSS能被WAF拦截吗？</li>
+<li>了解Java反射机制原理吗？</li>
+<li>用过哪些框架？</li>
+<li>文件包含</li>
+<li>反序列化<br>
+...<br>
 n. 你有什么想问的吗？<br>
 Q:对我的评价<br>
-A:对于实习的话可能稍微差一点，有一定基础但知识面不够导致思路也不够。</p>
+A:对于实习的话可能稍微差一点，有一定基础但知识面不够导致思路也不够。</li>
+</ol>
 <h2 id="hr面">Hr面:</h2>
 <p>线上面的，也记不清了</p>
 <ol>
